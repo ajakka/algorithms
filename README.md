@@ -1,6 +1,6 @@
 # algorithms
 
-Personal repo for learining algorithms
+Personal repository for learning algorithms
 
 ## Primary goals checklist
 
