@@ -1,0 +1,13 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Journey to mastery of wizardry",
+  "repository": "git@github.com:ajakka/algorithms.git",
+  "author": "Abderrahim Ajakka",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "linkedlist": "node linkedlist/playground.js"
+  }
+}
