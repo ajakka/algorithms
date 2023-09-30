@@ -5,7 +5,14 @@
  * @class
  */
 export class ArrayList {
+  length = 0;
+
+  capacity = 8;
+
   constructor(length) {
+    this.length = length;
+    this.capacity = length;
+
     let buffer = new ArrayBuffer(length * 4); // 4 bytes = 32 bits = 1 Uint32Array
     this.array = new Uint32Array(buffer);
   }

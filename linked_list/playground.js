@@ -12,10 +12,10 @@ export function play_with_linked_lists() {
 
   // console.log(".get(4) ", sll.get(4));
 
-  sll.pull("single");
+  sll.remove("single");
   console.log(".print()", sll.toString());
 
-  // sll.pull("list");
+  // sll.remove("list");
   // console.log(".print()", sll.toString());
 
   sll.append("new");
