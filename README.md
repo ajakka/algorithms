@@ -1,6 +1,6 @@
 # algorithms
 
-Personal repository for learning algorithms
+Personal repository for learning algorithms from ThePrimagen course: The Last Algorithms Course You'll Need
 
 ## Primary goals checklist
 
